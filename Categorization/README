@@ -1,1 +1,1 @@
-Text Categorization training a simple Naive Bayes classifier to perform author identification, using texts written by Henry James and Jack London.
+Text Categorization by training a simple Naive Bayes classifier to perform author identification, using texts written by Henry James and Jack London.
