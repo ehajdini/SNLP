@@ -1,1 +1,3 @@
 Text Categorization by training a simple Naive Bayes classifier to perform author identification, using texts written by Henry James and Jack London.
+Naive Bayes classifier: using the word frequencies as features(i.e. the unigram distribution, with floor discounting 
+(a.k.a add-epsilon smoothing, Lidstone smoothing ... see Additive Smoothing) )
