@@ -1,0 +1,3 @@
+• Implementing a function that calculates the entropy of a given text. 
+• Implementing a function that takes two texts as arguments, and calculates the KL divergence D(p||q) between them,using the probabilities after applying Lidstone smoothing. 
+• Calculating the KL divergence between the two texts of the same language, and between two of the texts in different languages
