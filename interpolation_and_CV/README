@@ -1,0 +1,6 @@
+
+1. Creating a function that returns perplexity given relative frequencies of the test n-grams and training n-grams distribution.
+2. Computing the perplexity of the text. First using smoothed trigram probabilities with Laplace Smoothing and α = 0.1 as the trainings data. 
+3. Then computing the perplexity using P_3 and λ1 = λ2 = λ3 = 1/3. Using P_n values trained during the first task for both language models.
+4. Optimizing λ values using cross validation, using 5-fold cross validation. 
+
